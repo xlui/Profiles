@@ -6,7 +6,6 @@
 
 ```
 https://raw.githubusercontent.com/xlui/Profiles/main/ad.conf
-https://raw.githubusercontent.com/xlui/Profiles/main/ruleset.conf
 ```
 
 ## LICENSE
