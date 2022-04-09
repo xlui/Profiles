@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/xlui/Profiles/main/ad.conf
 引用分流规则：
 
 ```
-https://raw.githubusercontent.com/xlui/Profiles/main/profile.conf
+https://raw.githubusercontent.com/xlui/Profiles/main/rule.conf
 ```
 
 ## LICENSE
