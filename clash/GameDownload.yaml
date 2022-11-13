@@ -1,5 +1,6 @@
 payload:
   # steam 游戏下载
+  - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,dl.steam.ksyna.com
   - DOMAIN-SUFFIX,dl.steam.clngaa.com
   - DOMAIN-SUFFIX,st.dl.eccdnx.com
