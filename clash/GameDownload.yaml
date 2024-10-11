@@ -9,7 +9,6 @@ payload:
   - DOMAIN-SUFFIX,steamchina.com
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,steamserver.net
-  - DOMAIN-SUFFIX,steamusercontent.com
   - DOMAIN-SUFFIX,steampipe.steamcontent.tnkjmec.com
   - DOMAIN-SUFFIX,cdn.mileweb.cs.steampowered.com.8686c.com
   # uplay 游戏下载
